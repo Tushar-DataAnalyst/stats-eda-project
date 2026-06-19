@@ -1,0 +1,16 @@
+Customer_ID,Age,Gender,Region,Segment,Monthly_Orders,Order_Value,Return_Flag,Customer_Tenure,Support_Calls,Payment_Method,Satisfaction_Score
+C001,23,Male,North,Consumer,5,1200,0,2.1,1,UPI,4
+C002,35,Female,South,Corporate,8,3200,1,5.4,3,Credit Card,3
+C003,29,Male,West,Consumer,2,800,0,1.5,0,Debit Card,5
+C004,41,Female,East,Small Business,6,2500,0,6.2,2,UPI,4
+C005,52,Male,North,Corporate,10,5000,1,8.5,5,Credit Card,2
+C006,27,Female,West,Consumer,3,950,0,2.8,1,UPI,4
+C007,33,Male,South,Small Business,7,2100,0,4.1,2,Net Banking,3
+C008,45,Female,East,Corporate,9,4200,1,7.3,4,Credit Card,2
+C009,38,Male,North,Consumer,4,1100,0,3.2,1,Debit Card,4
+C010,26,Female,South,Consumer,2,700,0,1.2,0,UPI,5
+C011,48,Male,West,Corporate,11,5200,1,9.1,6,Credit Card,2
+C012,31,Female,East,Small Business,5,1800,0,3.9,2,Net Banking,4
+C013,36,Male,North,Consumer,6,1500,0,4.5,1,UPI,3
+C014,28,Female,South,Consumer,3,900,0,2.3,1,Debit Card,5
+C015,50,Male,West,Corporate,12,6000,1,10.2,7,Credit Card,1
